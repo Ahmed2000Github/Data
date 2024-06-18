@@ -1,53 +1,42 @@
 [
-    {
-      "Name":"A simple Lego character",
-      "image":"",
-      "model":""
-    },
-    {
-      "Name":"Desk object",
-      "image":"",
-      "model":""
-    },
-    {
-      "Name":"Simple table",
-      "image":"",
-      "model":""
-    },
-    {
-      "Name":"Earth planet",
-      "image":"",
-      "model":""
-    },
-    {
-      "Name":"Sun planet",
-      "image":"",
-      "model":""
-    },
-    {
-      "Name":"Palestine flag",
-      "image":"",
-      "model":""
-    },
-    {
-      "Name":"Chair object",
-      "image":"",
-      "model":""
-    },
-    {
-      "Name":"Bunk bed",
-      "image":"",
-      "model":""
-    },
-    {
-      "Name":"Simple tree",
-      "image":"",
-      "model":""
-    },
-    {
-      "Name":"Opened door",
-      "image":"",
-      "model":""
-    }
-  ]
-
+  {
+    "Name": "A simple Lego character",
+    "model": "Lego"
+  },
+  {
+    "Name": "Desk object",
+    "model": "Desk"
+  },
+  {
+    "Name": "Simple table",
+    "model": "Table"
+  },
+  {
+    "Name": "Earth planet",
+    "model": "Earth"
+  },
+  {
+    "Name": "Sun planet",
+    "model": "Sun"
+  },
+  {
+    "Name": "Palestine flag",
+    "model": "Flag"
+  },
+  {
+    "Name": "Chair object",
+    "model": "Chair"
+  },
+  {
+    "Name": "Bunk bed",
+    "model": "BunkBed"
+  },
+  {
+    "Name": "Simple tree",
+    "model": "Tree"
+  },
+  {
+    "Name": "Opened door",
+    "model": "Door"
+  }
+]
