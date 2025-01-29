@@ -1,6 +1,50 @@
 {
   "projects": [
     {
+      "name": "ChatBox",
+      "image": "flutter",
+      "description": "A chat mobile application for messaging with other users",
+      "link": "https://github.com/Ahmed2000Github/ChatBox",
+      "techs": [
+         "Flutter",
+        "Dart",
+        "Firebase",
+      ]
+    },
+    {
+      "name": "Node Editor",
+      "image": "nodejs",
+      "description": "A native JavaScript page with a node editor.",
+      "link": "https://github.com/Ahmed2000Github/Node-Editor",
+      "techs": [
+        "JavaScript",
+        "Css",
+        "Html"
+      ]
+    },
+    {
+      "name": "NetVibe",
+      "image": "flutter",
+      "description": "Developed an app to test network download and upload speed.",
+      "link": "https://github.com/Ahmed2000Github/netvibe",
+      "techs": [
+         "Flutter",
+        "Dart",
+        "Network"
+      ]
+    },
+    {
+      "name": "Blazor Crossplatform ChatApp",
+      "image": "csharp",
+      "description": "Built a real-time chat app with .NET and SignalR, featuring authentication, messaging, and file sharing.",
+      "link": "https://github.com/Ahmed2000Github/ChatApp",
+      "techs": [
+        "ASP.NET",
+        "Blazor",
+        "MySQL"
+      ]
+    },
+    {
       "name": "BookStore API",
       "image": "csharp",
       "description": "A simple, RESTful API powers the backend of a basic book store website.",
