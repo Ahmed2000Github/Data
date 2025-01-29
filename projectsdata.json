@@ -25,7 +25,7 @@
     {
       "name": "NetVibe",
       "image": "flutter",
-      "description": "Developed an app to test network download and upload speed.",
+      "description": "Developed a mobile app to measure network speed with real-time results and analytics.",
       "link": "https://github.com/Ahmed2000Github/netvibe",
       "techs": [
          "Flutter",
